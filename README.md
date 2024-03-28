@@ -7,4 +7,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=UtopianCoding&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=UtopianCoding&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=UtopianCoding&theme=dark)](https://git.io/streak-stats)
